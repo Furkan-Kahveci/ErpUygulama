@@ -1,0 +1,6 @@
+@ErpUygulama_HostAddress = http://localhost:5100
+
+GET {{ErpUygulama_HostAddress}}/ErpUygulama/
+Accept: application/json
+
+###
